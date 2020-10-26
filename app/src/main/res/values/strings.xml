@@ -16,7 +16,7 @@
     <string name="ok_label">OK</string>
     <string name="dismiss_label">Dismiss</string>
     <string name="clear_all_label">Clear all</string>
-    <string name="search_title">Search with Competition Name</string>
+    <string name="hint_search">Competition name</string>
 
     <string-array name="shopping_item">
         <item>Onion</item>

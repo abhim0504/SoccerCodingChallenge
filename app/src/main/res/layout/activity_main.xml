@@ -33,7 +33,7 @@
                 android:maxWidth="1000dp"
                 android:iconifiedByDefault="true"
                 android:background="@color/colorPrimary"
-                android:queryHint="Search"
+                android:queryHint="@string/hint_search"
                 android:layout_alignParentRight="true"/>
 
         </RelativeLayout>
